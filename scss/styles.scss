@@ -1,0 +1,13 @@
+@import "../bootstrap/scss/bootstrap.scss";
+@import "var";
+@import "components/header";
+@import "components/main";
+@import "components/section1";
+@import "components/section2";
+@import "components/footer";
+
+// SaSS terminalo komanda  =    sass --watch scss.css
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
